@@ -1,6 +1,6 @@
 .result {
     height: 60px;
-    background-color: #bbb;
+    background-color: darkgray;
     width: 100%;
 }
 
@@ -19,7 +19,7 @@
 
 .button {
     display: block;
-    background-color: #bbb;
+    background-color: lightgray;
 }
 
 button {
